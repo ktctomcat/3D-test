@@ -1,1 +1,3 @@
-[3Dテストページ](https://ktctomcat.github.io/3D-test/)
+# 3DテストページREADME
+
+[テストページ](https://ktctomcat.github.io/3D-test/)
